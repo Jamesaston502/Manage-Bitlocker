@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://managebitlocker.readthedocs.io/en/latest/
