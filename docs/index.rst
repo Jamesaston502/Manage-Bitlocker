@@ -2,13 +2,7 @@ How to Manage Bitlocker in Windows 10: A Complete Guide
 ==========================================
 BitLocker is a built-in encryption feature in Windows 10 that helps protect your data by securing entire drives. It is designed to prevent unauthorized access to your files in case your device is lost, stolen, or compromised. Managing BitLocker properly ensures that your sensitive information remains safe while still being easily accessible to you.
 
-This guide explains how to manage BitLocker in Windows 10, covering everything from enabling encryption to handling recovery keys and maintaining security.
-
-.. image:: bitlocker-windows10.png
-   :alt: BitLocker Windows 10
-   :width: 400px
-   :align: center
-   :target: https://tbd.officialredir.com
+This guide explains how to manage BitLocker in Windows 10, covering everything from enabling encryption to handling recovery keys and maintaining security
 
 
 Understanding BitLocker in Windows 10
