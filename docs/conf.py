@@ -1,5 +1,5 @@
-project = 'manage-bitlocker-in-windows-10'
-author = 'manage-bitlocker-in-windows-10'
+project = 'manage-bitlocker'
+author = 'manage-bitlocker'
 release = '1.0'
 
 # Extensions
@@ -25,4 +25,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://managebitlockerinwindows10.readthedocs.io/en/latest/'
+html_baseurl = 'https://managebitlocker.readthedocs.io/en/latest/'
